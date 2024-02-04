@@ -7,7 +7,7 @@ As the challenge states that the words have been divided into groups of 3:
 
 heT : The\
 fl_ : _fl\
-g_a : ag_\
+g_a : ag_
 
 We see that when we join the words after unscrambling, the sentence starts to make sense. Using a prgram in java we get the following output:
 
